@@ -1,2 +1,2 @@
 # Guess-the-Number
-A number guessing built with html, css and javascript
+<h1> A number guessing game built with html, css and javascript</h1>
